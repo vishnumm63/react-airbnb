@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ef2dc3a.css",
+    "main.js": "/static/js/main.bcf049fe.js",
+    "static/js/787.2df03d5a.chunk.js": "/static/js/787.2df03d5a.chunk.js",
+    "static/media/beautiful-autumn-foliage-background-brunches-falling-tree-leaves-sky-bokeh-98280795.jpg": "/static/media/beautiful-autumn-foliage-background-brunches-falling-tree-leaves-sky-bokeh-98280795.1725b4d30cff29db3c44.jpg",
+    "index.html": "/index.html",
+    "main.0ef2dc3a.css.map": "/static/css/main.0ef2dc3a.css.map",
+    "main.bcf049fe.js.map": "/static/js/main.bcf049fe.js.map",
+    "787.2df03d5a.chunk.js.map": "/static/js/787.2df03d5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef2dc3a.css",
+    "static/js/main.bcf049fe.js"
+  ]
+}
